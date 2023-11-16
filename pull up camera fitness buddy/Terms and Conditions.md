@@ -15,11 +15,13 @@ Link to Terms and Conditions of third-party service providers used by the app
 *   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
-You should be aware that there are certain things that Thomas Papapaschos will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Thomas Papapaschos cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+You should be aware that there are certain things that Thomas Papapaschos will not take responsibility for. While the app does not require an active internet connection, Thomas Papapaschos cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
 If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
 
 Along the same lines, Thomas Papapaschos cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Thomas Papapaschos cannot accept responsibility.
+
+The app requires the use of the device's camera for the correct function of the app. Thomas Papapaschos cannot take responsibility if you are unable to use the app because of camera issues in any way.
 
 With respect to Thomas Papapaschos’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Thomas Papapaschos accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
 
