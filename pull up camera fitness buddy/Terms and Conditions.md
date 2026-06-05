@@ -35,4 +35,4 @@ These terms and conditions are effective as of 2023-11-16
 
 **Contact Us**
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at papapaschos@gmail.com.
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at papapaschosdev@gmail.com.
