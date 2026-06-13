@@ -1,38 +1,38 @@
 **Terms & Conditions**
 
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Thomas Papapaschos.
+By downloading or using the app, these terms will automatically apply to the User. The User should ensure they read them carefully before using the app. The User is prohibited from copying or modifying the app, any part of the app, or the Developer's trademarks in any way. Attempting to extract the source code of the app, translating the app into other languages, or creating derivative versions is strictly prohibited. The app itself, along with all trademarks, copyright, database rights, and other intellectual property rights related to it, remains the sole property of Thomas Papapaschos (referred to as "the Developer").
 
-Thomas Papapaschos is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+The Developer is committed to ensuring that the app is as useful and efficient as possible. For that reason, the Developer reserves the right to make changes to the app or to implement charges for its services, at any time and for any reason. The Developer will never charge the User for the app or its services without providing clear communication regarding the exact nature of the charges.
 
-The Elixis app stores and processes personal data that you have provided to us, to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Elixis app won’t work properly or at all.
+The Elixis app stores and processes personal data provided by the User to deliver the Service. It is the User's responsibility to keep their device and access to the app secure. The Developer recommends against jailbreaking or rooting the device, as this process removes software restrictions and limitations imposed by the official operating system. Doing so could make the device vulnerable to malware, viruses, and malicious programs, compromise the device's security features, and prevent the Elixis app from functioning correctly or at all.
 
-The app does use third-party services that declare their Terms and Conditions.
+The app utilizes third-party services that maintain their own Terms and Conditions.
 
-Link to Terms and Conditions of third-party service providers used by the app
+Link to Terms and Conditions of third-party service providers used by the app:
 
 *   [Google Play Services](https://policies.google.com/terms)
 *   [ML Kit](https://developers.google.com/ml-kit/terms#ml_kit_terms_of_service)
 *   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
-You should be aware that there are certain things that Thomas Papapaschos will not take responsibility for. While the app does not require an active internet connection, Thomas Papapaschos cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+The User should be aware that there are certain aspects for which the Developer will not assume responsibility. While the app does not require a continuous internet connection, the Developer cannot be held responsible for the app not functioning at full capacity if the User does not have access to Wi-Fi or has exhausted their data allowance.
 
-If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+If the User utilizes the app outside of an area with Wi-Fi, the terms of the agreement with their mobile network provider will still apply. Consequently, the User may be charged by the mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. By using the app, the User accepts responsibility for any such charges, including roaming data charges if the app is used outside of their home territory (i.e., region or country) without disabling data roaming. If the User is not the bill payer for the device being used, it is assumed that they have received permission from the bill payer to use the app.
 
-Along the same lines, Thomas Papapaschos cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Thomas Papapaschos cannot accept responsibility.
+Furthermore, the Developer cannot assume responsibility for how the User utilizes the app. The User is responsible for ensuring their device remains charged; if the device loses power and the Service cannot be accessed, the Developer cannot accept responsibility.
 
-The app requires the use of the device's camera for the correct function of the app. Thomas Papapaschos cannot take responsibility if you are unable to use the app because of camera issues in any way.
+The app requires the use of the device's camera and microphone for core functions. The Developer cannot take responsibility if the User is unable to utilize the app due to hardware issues. The User is solely responsible for ensuring they have the legal right to record video and audio in their current environment when using the recording features of the app.
 
-With respect to Thomas Papapaschos’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Thomas Papapaschos accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+Regarding the Developer’s responsibility for the User's use of the app, while the Developer endeavors to ensure the app is updated and correct at all times, the Developer relies on third parties to provide information. The Developer accepts no liability for any loss, direct or indirect, experienced by the User as a result of relying wholly on this functionality of the app.
 
-At some point, we may wish to update the app. The app is currently available on Android – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Thomas Papapaschos does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+The Developer may wish to update the app in the future. The app is currently available on Android, and the requirements for the system (and for any additional systems the Developer may expand to) may change. The User will need to download updates to continue using the app. The Developer does not guarantee that the app will always be updated to remain relevant or compatible with the Android version installed on the User's device. However, the User agrees to accept updates to the application when offered. The Developer may also cease providing the app and may terminate its use at any time without prior notice. Unless otherwise stated, upon any termination: (a) the rights and licenses granted to the User in these terms will end; (b) the User must cease using the app and, if necessary, delete it from their device.
 
-**Changes to This Terms and Conditions**
+**Changes to These Terms and Conditions**
 
-I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
+The Developer may update these Terms and Conditions from time to time. Thus, the User is advised to review this page periodically for any changes. The Developer will notify the User of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2023-11-16
+These terms and conditions are effective as of 2026-06-13
 
 **Contact Us**
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at papapaschosdev@gmail.com.
+If there are any questions or suggestions regarding these Terms and Conditions, do not hesitate to contact the Developer at papapaschosdev@gmail.com.
